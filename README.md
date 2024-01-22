@@ -6,7 +6,7 @@ I'm a Software Engineer working (from home) in Balikpapan, Indonesia.
 
 - I'm currently working at [LinkAja](https://www.linkaja.id/)
 - Backend: `go`, `laravel`, `express.js`
-- Frontend: `vue.js`, `flutter`
+- Frontend: `vue.js`, `next.js`, `flutter`
 - Open Source Software
 - Interested in startup
 
